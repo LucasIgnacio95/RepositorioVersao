@@ -34,7 +34,7 @@ public class DownloadVersaoChamadoFrame extends JFrame {
     
     public DownloadVersaoChamadoFrame(){
     
-    setTitle("Repositório Versão Areatec V. 1.1");
+    setTitle("Repositório Versão V. 1.1");
         setSize(770, 600);
         setLocationRelativeTo(null);
         setResizable(false);

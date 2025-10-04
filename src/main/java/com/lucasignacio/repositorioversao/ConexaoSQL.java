@@ -12,7 +12,7 @@ import java.sql.SQLException;
 public class ConexaoSQL {
 
     // Substitua "LUCAS" pelo nome correto do seu servidor.
-    private static final String URL = "jdbc:sqlserver://LUCAS:1433;databaseName=repositorioareatec;encrypt=true;trustServerCertificate=true;";
+    private static final String URL = "jdbc:sqlserver://localhost:1433;databaseName=meu_banco;encrypt=true;trustServerCertificate=true;";
 
     // Nome do usuário do banco de dados.
     private static final String USUARIO = "meu_usuario";
