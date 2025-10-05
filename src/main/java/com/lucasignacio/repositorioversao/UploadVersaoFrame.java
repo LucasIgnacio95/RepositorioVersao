@@ -32,7 +32,7 @@ public class UploadVersaoFrame extends JFrame {
     ClienteDAO dao = new ClienteDAO();
 
     public UploadVersaoFrame() {
-        setTitle("Repositório Versão Areatec V. 1.1");
+        setTitle("Repositório Versão V. 1.1");
         setSize(770, 600);
         setResizable(false);
         setLocationRelativeTo(null);
@@ -341,4 +341,5 @@ public class UploadVersaoFrame extends JFrame {
         });
     }
     
+
 }
