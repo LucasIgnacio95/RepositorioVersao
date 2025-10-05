@@ -38,7 +38,7 @@ public class DownloadVersaoCidadeFrame extends JFrame {
     
     public DownloadVersaoCidadeFrame() {
     
-        setTitle("Repositório Versão Areatec V. 1.1");
+        setTitle("Repositório Versão V. 1.1");
         setExtendedState(JFrame.MAXIMIZED_BOTH); //Define como tela cheia        
         setLocationRelativeTo(null);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -629,3 +629,4 @@ public class DownloadVersaoCidadeFrame extends JFrame {
         });
     }
 }
+
